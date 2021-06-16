@@ -1,0 +1,26 @@
+body, .bg-dark {
+  background: linear-gradient(90deg, #161122 21px, transparent 1%) center, linear-gradient(#161122 21px, transparent 1%) center, #a799cc;
+  background-size: 22px 22px;
+}
+
+h1 {
+    background-color: antiquewhite;
+}
+/* .img-max {
+max-width: 800px;
+width:100%;
+} */
+
+.carousel-item {
+    width: 100%;
+    max-height: 91vh;
+}
+
+.donate-card-section {
+    /* background-image: url(./named.jpg); */
+    padding: 10vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
